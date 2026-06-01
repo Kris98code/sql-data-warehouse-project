@@ -1,4 +1,3 @@
--- Drop and recreate the 'Datawharehouse'
 /*
 =================================================================================
 Create database and Schemas
